@@ -10,11 +10,9 @@
 
 I build online products and help others do the same. I'm based in Bucharest (Romania), but work almost as much from cafes and coworking spaces around the world.
 
-> I think life is simple, we make it complicated. Same with web development. 
+**I think life is simple, we make it complicated. Same with web development.** That's why I've been warning people against unnecessarily adopting some dev trends for the past 10 years. I've always seen microservices, SPAs, large JS frameworks as something only 1% of new apps should use, not 99% - most people didn't listen. I finally feel vindicated in 2024, seeing many people in this tiny little corner of the internet finally moving to monoliths, HTMX / Livewire, Alpine etc. Feels like the share of people who like to "_keep it simple_" is growing again. Can't wait for people to also see NPM as toxic (just like its founder does). Other than that, I'm a happy camper.
 
-That's why I warned people against unnecessarily adopting some trends for the past 10 years. I saw microservices, SPAs, large JS frameworks as something only 1% of apps should use, not 99% - most people didn't listen. I finally feel vindicated in 2024, seeing my little corner of the internet finally moving to monoliths, HTMX, Livewire, Alpine etc. Feels like the share of people who like to "_keep it simple_" is growing again. Can't wait for people to also see NPM as toxic (just like its founder does). Other than that, I'm a happy camper.
-
-I love my stack and the people in it. I feel we've got 90% of the things we need to quickly build & maintain web apps. I'm working on the next 5%.
+I love my stack and the people in it. We've got 90% of the things we need to quickly build & maintain web apps. I have some big ideas regarding the next 10%... just hope I get enough time to make them a reality.
 
 # Personal Stuff 👤
 - 🚧 Currently working on [Backpack for Laravel](https://backpackforlaravel.com) and [Recurrr](https://recurrr.com).
