@@ -8,7 +8,7 @@
 
 # Hey! I'm Tabacitu 👋   
 
-I build online products and help others do the same. I'm based in Bucharest (Romania), but work almost as much from cafes and coworking spaces around the world.
+I build online products and help others do the same. I work from Bucharest (Romania) and cafes & coworking spaces around the world. I've built 8+ businesses for myself (closed quite a few too) and dozens of online products for others.
 
 **I think life is simple, we make it complicated. Same with web development.** That's why I've been warning people against unnecessarily adopting some dev trends for the past 10 years. I've always seen microservices, SPAs, large JS frameworks as something only 1% of new apps should use, not 99% - most people didn't listen. I finally feel vindicated in 2024, seeing many people in this tiny little corner of the internet finally moving to monoliths, HTMX / Livewire, Alpine etc. Feels like the share of people who like to "_keep it simple_" is growing again. Can't wait for people to also see NPM as toxic (just like its founder does). Other than that, I'm a happy camper.
 
